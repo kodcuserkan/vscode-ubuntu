@@ -1,22 +1,8 @@
 
-# Created by https://www.gitignore.io/api/react
-# Edit at https://www.gitignore.io/?templates=react
+# Created by https://www.gitignore.io/api/dotenv
+# Edit at https://www.gitignore.io/?templates=dotenv
 
-### react ###
-.DS_*
-*.log
-logs
-**/*.backup.*
-**/*.back.*
+### dotenv ###
+.env
 
-node_modules
-bower_components
-/.env
-
-*.sublime*
-
-psd
-thumb
-sketch
-
-# End of https://www.gitignore.io/api/react
+# End of https://www.gitignore.io/api/dotenv
